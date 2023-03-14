@@ -1,0 +1,2 @@
+#!/bin/bash
+short | uniq -u
